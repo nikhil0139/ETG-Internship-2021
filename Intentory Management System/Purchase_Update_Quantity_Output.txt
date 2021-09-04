@@ -1,0 +1,154 @@
+
+################################################### ADDING THE PURCHASED ITEMS ###########################################################
+
+If you want to update new items in the inventory PRESS A , otherwise if you want to update existing item quantity PRESS B: A
+
+Enter how many items you want to add : 10
+Enter the id of 1 item : 140051
+Enter the category of the item : Nuts       
+Enter the name of the item : Almonds       
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.7
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 2 item : 140052
+Enter the category of the item : Nuts       
+Enter the name of the item : Brazil Nuts   
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100 
+Enter the rating of the item by customers who buy it: 4.7
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 3 item : 140053
+Enter the category of the item : Nuts       
+Enter the name of the item : Cashew Nuts   
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.8
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 4 item : 140054
+Enter the category of the item : Nuts       
+Enter the name of the item : Hazel Nuts    
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.5
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 5 item : 140055
+Enter the category of the item : Nuts       
+Enter the name of the item : Macadamias    
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.5
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 6 item : 140056
+Enter the category of the item : Nuts       
+Enter the name of the item : Pecans        
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.6
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 7 item : 140057
+Enter the category of the item : Nuts       
+Enter the name of the item : Pine Nuts     
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.6
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 8 item : 140058
+Enter the category of the item : Nuts       
+Enter the name of the item : Pistachios    
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.8
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 9 item : 140059
+Enter the category of the item : Nuts       
+Enter the name of the item : Walnuts       
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.8
+Enter the quantity of the item : 500
+Successfully added....
+
+Enter the id of 10 item : 140060
+Enter the category of the item : Nuts       
+Enter the name of the item : Peanuts       
+Enter the weight of the item : 100 g   
+Enter the cost of the item : 100
+Enter the rating of the item by customers who buy it: 4.8
+Enter the quantity of the item : 500
+Successfully added....
+
+
+##################################################### UPDATING THE QUANTITY OF ITEMS ######################################################
+
+If you want to update new items in the inventory PRESS A , otherwise if you want to update existing item quantity PRESS B: B
+
+
+Enter how many items quantity you want to update : 10
+Enter the id of 1 item : 140051
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 2 item : 140052
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 3 item : 140053
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 4 item : 140054
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 5 item : 140055
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 6 item : 140056
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 7 item : 140057
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 8 item : 140058
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 9 item : 140059
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+Enter the id of 10 item : 140060
+Enter the quantity of the item : 300
+Successfully updated....
+
+
+
