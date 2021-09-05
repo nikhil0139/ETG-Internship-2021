@@ -15,3 +15,19 @@ PURCHASE ITEMS UPDATE PORTAL -->
 This portal is used for two purposes by the company employees. One for updating the newly purchased items in the inventory, that is all the new items with all its attributes can be updated to the inventory and another one is for updating the existing items quantity in the inventory, that is if the item is already present in the inventory and we need to update its quantity only.
 You can see the code of purchase items update portal with output in Purchase Items Update Portal.ipynb file. Also I share a text file with the output namely Purchase_Update_Quantity_Output.txt.
 
+Project Features -->
+Record.json file (It Consists of various items with its attributes. Attributes are Product ID, Category, Name, Weight, Cost(per unit), Ratings and the Quantity.)
+Sale detail.json file (It consist of bill of every purchase. Bill consists of Name, Transaction ID, Date, time, Amount Paid, Shipping Address and the Delievery Date.)
+
+
+
+About Me --->
+As a graduating student, my inclination has been towards Competitive Coding. I found it very interesting to solve a problem in multiple ways. I always ready to accept challenges and give my best in every situation. Besides competitive coding, my interest is also towards making cool websites. 
+
+Social Media Handles --->
+
+LinkedIn ->   https://www.linkedin.com/in/nikhil-bansal-40b9041aa/
+
+Instagram ->  https://www.instagram.com/nikhil_bansal_09/
+
+Gmail ->      nbansal200151@gmail.com
