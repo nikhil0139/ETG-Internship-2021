@@ -1,0 +1,16 @@
+				Assignment 2
+
+In this assignment we are given a csv file of Olympics record from 1896 to 2012.
+We have to do the analysis and answer few questions asked in ipynb file.
+
+Solution-->
+
+I use the pandas library to do the same.
+
+I did the assignment with the help of following functions :-  
+1) read_csv() to read the file, 
+2) groupby() function to group things,  
+3) count() function to count them, 
+4) sort_values() function to sort the data, 
+5) plot.bar() function to plot the bar graph, and 
+6) head() function to take top five values
